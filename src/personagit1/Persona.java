@@ -11,7 +11,7 @@ public class Persona {
     }
     
     public void saludar(){
-        System.out.println("Saludanding");
+        System.out.println("Saludanding everyone");
     }
     
     public boolean esMayor(){ //cambios en este archivo que no han
