@@ -13,6 +13,10 @@ public class Persona {
     public void saludar(){
         System.out.println("Saludanding");
     }
+    
+    public boolean esMayor(){ //cambios en este archivo que no han
+        return this.edad >=18;// sido guardados en el repositorio
+    }
 
     public String getNombre() {
         return nombre;
